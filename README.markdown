@@ -24,7 +24,7 @@ pip install pandas matplotlib seaborn scikit-learn scipy
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/MoscowRealEstateAnalysis.git
+   git clone https://github.com/Geewh1z-code/MoscowRealEstateAnalysis.git
    ```
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/egorkainov/moscow-housing-price-dataset) and place `data.csv` in the project directory.
 3. Run the Jupyter notebook `SRW.ipynb` to execute the analysis.
